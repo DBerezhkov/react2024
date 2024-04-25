@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "65baaead757d99fd5038563e"
+  },
+  "header": "Диван",
+  "price": 32600,
+  "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSurR6pcnW41ZgByRUhX-3jTcaqeJijeghUevNQWhnWKzvFX7-82BFOFLvewWyn98i_LLXaATpfnYSXABWcEiyuDlNpTyGgEeALTPnMku8&usqp=CAE"
+},
+{
+  "_id": {
+    "$oid": "65baee37757d99fd50385641"
+  },
+  "header": "Шкаф",
+  "price": 19700,
+  "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOzh5jh6At-Hm8_iL807DhJrxBNIp9afhC8R4Q-DZAEMB4trMzHLSsVqxHXbhH4RumqAry5wf6d3S6T1HkSxmk5qACRVBN5LFXp9muK6oaMRwk_NmNkvKn&usqp=CAE"
+},
+{
+  "_id": {
+    "$oid": "65baeee2757d99fd50385642"
+  },
+  "header": "Шкаф",
+  "price": 29250,
+  "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTmlbOYEnzC4WjKukCEv7vYSbubpwCNwPAqhrSMr36rNbbj1tuU7BlwJTG27p_XN3ipwkDxYSrX1wan6VyT8jtZv2hohjPAkg&usqp=CAE"
+},
+{
+  "_id": {
+    "$oid": "65baef88757d99fd50385643"
+  },
+  "header": "Диван",
+  "price": 81700,
+  "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSFCFmPPJQvN5-MYv_KmHSMZwWFGjap8IpZHAEXAr4iYx3ZgQCFv52y1azva6TCcgOPnHLnc5fLTrvyJ20cj3sBG2bumoIsfec_QwvFo5Ob&usqp=CAE"
+},
+{
+  "_id": {
+    "$oid": "65baf057757d99fd50385644"
+  },
+  "header": "Кресло",
+  "price": 13120,
+  "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRgW0HpG0qnggO565mwqBfbhJdSYysdn7fRjW2NprlQh4z3kp3Mfb3O_2zeWFJpWhCCL913dV0ZWOM5RuE2bqcY9oyfCOfcmvQdUtKGldcD&usqp=CAE"
+},
+{
+  "_id": {
+    "$oid": "65baf059757d99fd50385645"
+  },
+  "header": "Кресло",
+  "price": 8830,
+  "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTtwwLaS04FvR4dFxRVtQOL92RRuLBIIXQZ3Zlr1KR5bALd2ddIChpSRpystXlsfvXV21nBKk8Se432PwaPLlvKVKE_6KfR1hNyro8PkTrdgxRgz0JTYJU8JQ&usqp=CAE"
+},
+{
+  "_id": {
+    "$oid": "65baf05b757d99fd50385646"
+  },
+  "header": "Стол",
+  "price": 11800,
+  "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSL-WAmm96cNdgLRuWGI0Jnyhao1eMGD7nDbkOwcElBOWU2XXxxRmbpUafmGMVImnhYllrYbrhBAg66hwP-HLcgQtlSfiYJtfZ82F4yKiUpSj42G8_ZE22m354&usqp=CAE"
+},
+{
+  "_id": {
+    "$oid": "65baf05d757d99fd50385647"
+  },
+  "header": "Стол река",
+  "price": 900000,
+  "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTIQp_cvkzMFNrX7iSSTD182Z4M87ALQJ67fOS5_6CdhGfyDBonmdf6na5ex9_pEgXbPgsHbKTm3x0f8EllYiTAsKCEUacexq2shP7HpsGt&usqp=CAE"
+},
+{
+  "_id": {
+    "$oid": "65baf05f757d99fd50385648"
+  },
+  "header": "Стол",
+  "price": 36968,
+  "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSLPu6Ulo0-Mz8dHNWWZFCSVVMo3wfGMpC1q02_14xQxoWl59Ds40xz6AWf5DJuFB6DpNPF9md-suGZVBbEj3-67xM3gO-TYzHxUu-SFUNQ&usqp=CAE"
+},
+{
+  "_id": {
+    "$oid": "65baf060757d99fd50385649"
+  },
+  "header": "Пуф",
+  "price": 6000,
+  "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRaNOHic2AjT64_97Bau0WWvIApV8m0jMAfUqyCPrNdh6UmMO-ynJ9DsDNadHeZjNtsR1OhtnAnk3V2NGRzGRM3hB4Hq6kaGi09ULWdZ2KS&usqp=CAE"
+}]
